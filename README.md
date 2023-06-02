@@ -8,6 +8,7 @@ you should pick your certificate in ./server and ./
 default certificate files was empty
 
 Server commands:
+<pre>
     exit    stop server
     say     say to one group
     saya    say to all group
@@ -17,3 +18,4 @@ Server commands:
     delper  delete user from group
     setgpp  set group permission white list or black list
     setp    print received data
+</pre>
