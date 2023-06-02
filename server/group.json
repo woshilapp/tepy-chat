@@ -1,0 +1,18 @@
+{
+    "names": [
+        "*",
+        "Alice",
+        "Bob",
+        "Charlie"
+    ],
+    "L": [
+        "*",
+        "sb",
+        "dsb"
+    ],
+    "test": [
+        "test",
+        "test1",
+        "admin"
+    ]
+}
